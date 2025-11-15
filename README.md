@@ -15,7 +15,7 @@ Each project is built as a reusable and modular blueprint that can be adapted fo
 ---
 
 
-## 📂 Projects
+## Projects
 
 | Project | Description | Tech Stack |
 |----------|--------------|------------|
@@ -27,7 +27,7 @@ Each project is built as a reusable and modular blueprint that can be adapted fo
 
 ---
 
-## 🚀 Key Focus Areas
+## Key Focus Areas
 
 - Kubernetes architecture and infrastructure design  
 - Automated CI/CD and GitOps workflows  
